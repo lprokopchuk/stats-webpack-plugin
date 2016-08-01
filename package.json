@@ -4,11 +4,11 @@
   "version": "0.4.0",
   "license": "MIT",
   "author": {
-    "name": "Daniel Perez Alvarez, modified by kruczjak",
+    "name": "Daniel Perez Alvarez, modified by kruczjak"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/unindented/stats-webpack-plugin.git"
+    "url": "git://github.com/kruczjak/stats-webpack-plugin.git"
   },
   "keywords": [
     "stats",
