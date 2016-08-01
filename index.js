@@ -22,7 +22,9 @@ StatsPlugin.prototype.apply = function apply (compiler) {
         return result && result.length || 0
       },
       source: function getSource () {
-        result = JSON.stringify(compilation.getStats().toJson(options))
+	result_json = compilation.getStats().toJson(options)
+	delete result_json['errors']
+        result = JSON.stringify(result_json)
         return result
       }
     }
