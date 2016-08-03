@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kruczjak/stats-webpack-plugin.git"
+    "url": "git://github.com/lprokopchuk/stats-webpack-plugin.git"
   },
   "keywords": [
     "stats",
