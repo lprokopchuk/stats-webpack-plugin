@@ -1,5 +1,5 @@
 {
-  "name": "stats-webpack-plugin-kruczjak",
+  "name": "stats-webpack-plugin-lprokopchuk",
   "description": "Write the stats of a build to a file.",
   "version": "0.4.2",
   "license": "MIT",
